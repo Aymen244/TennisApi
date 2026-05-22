@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TennisApi/TennisApi.csproj" />
+  <Project Path="TestTennisApi/TestTennisApi.csproj" Id="04999bf7-8cef-4f9e-8e29-32a7324d7da4" />
+</Solution>
